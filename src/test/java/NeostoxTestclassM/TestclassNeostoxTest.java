@@ -24,6 +24,18 @@ import org.testng.annotations.AfterClass;
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
 public class TestclassNeostoxTest  extends NeoSBase{
 	
 	Newstoxlogin login;
@@ -80,6 +92,11 @@ public void loginttoneostox() throws InterruptedException, IOException
 	 Assert.assertEquals(home.fundase(),NeowsUtilty.readDataFromPropertyFile("fund"),"acual fund and expected fund is not matching Tc failed"); 
 	  
   }
+  
+  //change between branche1
+  
+  
+  
   
   
 
