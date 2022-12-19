@@ -21,21 +21,6 @@ import org.testng.Assert;
 
 import org.testng.annotations.AfterClass;
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
 public class TestclassNeostoxTest  extends NeoSBase{
 	
 	Newstoxlogin login;
