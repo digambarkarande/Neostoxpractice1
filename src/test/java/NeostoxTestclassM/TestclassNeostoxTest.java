@@ -37,7 +37,8 @@ public void lunchBrowser() throws IOException
 	home=new NewstoxHome(driver); 
 	
 }	
-	  
+      //change for jenkins
+	
 @BeforeMethod
 public void loginttoneostox() throws InterruptedException, IOException 
 {
